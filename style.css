@@ -1,25 +1,25 @@
 body {
   margin: 0px;
   background-color: skyblue;
-  font-family: Helvetica Neue, Helvetica;
-  color: white; }
+  font-family: Times, Helvetica;
+  color: black; }
   body a {
     color: orange;
     text-decoration: none; }
     body a:hover {
-      color: yellow; }
+      color: grey; }
   body .content {
-    background: url("gitrdone.png") no-repeat top right;
-    height: 1398px;
-    width: 1600px;
+    background: url("/dog.jpg") no-repeat bottom left 50%;
+    height: 900px;
+    width: 100%;
     margin: 0 0 0 auto;
-    padding-left: 50px; }
+    padding-left: 10px; }
     body .content h1 {
       font-weight: normal;
       padding: 25px 0 0;
       margin: 0px;
       font-size: 130px; }
     body .content p {
-      font-size: 17px;
+      font-size: 20px;
       margin: 5px 0 10px 10px;
       padding: 0px; }
